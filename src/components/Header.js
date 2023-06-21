@@ -23,9 +23,6 @@ const Header = () => {
                 <img src={themeSwitchIcon} alt='Dark Mode Switch'/>
             </div>
         </div>
-        <div className='loginButton'>
-        <a href="https://www.linkedin.com/in/mrshobhit/">Contact</a>
-        </div>
         </div>
 }
 export default Header

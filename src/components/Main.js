@@ -31,9 +31,9 @@ const Main = ({selectedNft, listData }) => {
                         <div className='ownerDetails'>
                             <div className='ownerNameAndHandle'>
                                 <div className='ether'>
-                                <a href="https://rinkeby.etherscan.io/address/0x5e8827f888ba8319dc70712776d6d41f97bd14f0">Etherscan Address</a>
+                                <a href="https://rinkeby.etherscan.io/address/0x2d365db5835df30653cd7b5a587e5aad2906a899">Etherscan Address</a>
                                     </div>
-                                <div className='ownerHandle'>@mrshobhit</div>
+                                <div className='ownerHandle'>@itsroy69</div>
                                 </div>
                                 <div className='ownerLink'>
                                     <img src={instagramLogo} alt='' />
